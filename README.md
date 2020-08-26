@@ -1,2 +1,2 @@
 # coursera-test-webdev
-Coursera Web development tests
+Coursera Web development assignments
